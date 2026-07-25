@@ -1,0 +1,4 @@
+streamlit
+numpy
+pypdf
+foundry-local-sdk-winml==1.2.3
